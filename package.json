@@ -1,0 +1,23 @@
+{
+  "name": "jaychat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaypey/jaychat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaypey/jaychat/issues"
+  },
+  "homepage": "https://github.com/jaypey/jaychat#readme",
+  "dependencies": {
+    "server": "^1.0.19"
+  }
+}
